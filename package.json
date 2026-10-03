@@ -1,0 +1,10 @@
+{
+  "name": "alirezapanel-katabump",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Katabump starter for alirezapanel / vpn-ui. Upload this file and index.js, then Restart.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
